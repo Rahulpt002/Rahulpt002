@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @Rahulpt002
-
-<!---
-Rahulpt002/Rahulpt002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About me https://rahul-portfolio-p16w.onrender.com/
